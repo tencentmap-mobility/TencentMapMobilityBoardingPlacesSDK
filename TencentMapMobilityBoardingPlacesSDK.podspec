@@ -18,6 +18,6 @@ Pod::Spec.new do |spec|
   spec.frameworks  = "UIKit", "CoreLocation"
 
   spec.dependency "TencentMapMobilitySDK", "~> 1.0.0"
-  spec.dependency "TencentMapMobilitySearchSDK"
+  spec.dependency "TencentMapMobilitySearchSDK", "~> 1.0.0"
 
 end
